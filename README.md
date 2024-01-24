@@ -1,1 +1,1 @@
-see the file "supplemental.pdf", a ssupplemental material of the paper entitled "Possible high Tc superconductivity in La3Ni2O7 under high pressure through manifestation of a nearly-half-filled bilayer Hubbard model".
+see the file "supplemental.pdf", a supplemental material of the paper entitled "Possible high Tc superconductivity in La3Ni2O7 under high pressure through manifestation of a nearly-half-filled bilayer Hubbard model".
